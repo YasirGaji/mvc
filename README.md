@@ -8,7 +8,9 @@ This is my first ASP.Net Core MVC movies application
 
 ## What I Learned
 
-  None Yet
+  1. Understood controllers, model binding and URL configuration in MVC
+
+  2. How to create pages
   
 ## Errors  I Faced
 
